@@ -1,3 +1,3 @@
 # serviceNow_repo
 
-hi please lear
+hi please learn all the git shortcuts
